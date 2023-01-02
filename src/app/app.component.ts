@@ -6,13 +6,13 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'attendanceApp';
-  count =0;
+  // title = 'attendanceApp';
+  // count =0;
 
-  incrementCounter(){
-    this.count++;
-  }
-  decrementCounter(){
-    this.count--;
-  }
+  // incrementCounter(){
+  //   this.count++;
+  // }
+  // decrementCounter(){
+  //   this.count--;
+  // }
 }

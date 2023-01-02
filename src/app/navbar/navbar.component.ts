@@ -13,6 +13,6 @@ export class NavbarComponent {
     {id: 4, title: 'Contact', url :"/contact-us"}
   ];
 
-  mobileView = true;
+  mobileView = false;
 
 }
