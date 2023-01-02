@@ -1,0 +1,15 @@
+.content{
+    width: 200px;
+    height: 200px;
+    padding: 30px;
+    background-color: bisque;
+}
+.counter{
+    font-weight: 600;
+    font-size: large;
+}
+.btnInc{
+    padding: 10px 20px;
+    background-color: blue;
+    color: #ffffff;
+}

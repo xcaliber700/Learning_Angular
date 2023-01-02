@@ -7,4 +7,12 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'attendanceApp';
+  count =0;
+
+  incrementCounter(){
+    this.count++;
+  }
+  decrementCounter(){
+    this.count--;
+  }
 }

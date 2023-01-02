@@ -1,0 +1,5 @@
+<div class="flex py-12 justify-center space-x-12" *ngIf="!mobileView">
+    <div *ngFor="let nav of navData">
+        <a class="hover:bg-gray-100 p-2" href={{nav.url}}>{{nav.title}} </a>
+    </div>
+</div>
